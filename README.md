@@ -1,1 +1,4 @@
 # Speech_Recognition_Using_Neural_Network
+
+
+ In this project, it is shown how the speech signals are recognized using back propagation algorithm in neural network. Voices of different persons of various ages in a silent and noise free environment by a good quality microphone are recorded. Same sentence of duration 4 seconds is spoken by these persons. These spoken sentences are then converted into wave formats. Then features of the recorded samples are extracted by training these signals using LPC. Learning is required whenever we don’t have the complete information about the input or output signal. At the input stage, 210 samples of each sentence are applied, then through hidden layers these are passed to output layer. These networks are trained to perform tasks such as pattern recognition like giving a number to speech signal. Then this speech signal is used for controlling a robot
